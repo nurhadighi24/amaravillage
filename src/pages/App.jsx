@@ -10,7 +10,7 @@ export default function App() {
       <div>
         <img
           src="/header.jpg"
-          alt=""
+          alt="header"
           className="w-[55rem] h-[50rem] m-auto rounded-xl shadow-2xl"
         />
       </div>
