@@ -6,7 +6,7 @@ export default function Card({ image, tipe }) {
   return (
     <div className="md:w-[36rem] rounded-xl shadow-xl my-5 mx-5 bg-white">
       <ReactWhatsapp
-        number="+6288901780480"
+        number="+6281310112429"
         message="Hi dari amaravillage.com
 Saya tertarik perumahan nya. Mohon info lengkapnya"
       >
