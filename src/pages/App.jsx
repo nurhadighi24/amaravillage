@@ -19,7 +19,7 @@ export default function App() {
           <p style={{ whiteSpace: "pre-wrap" }}>
             <strong>
               2 Jutaan / Bulan punya Rumah Cluster ada Fasilitas Kolam Renang &
-              Dekat Stasiun 🚇🏡
+              Dekat Stasiun 🚇
             </strong>
             {"\n"}
             🏡 <strong>Cluster ALAMANDA</strong>
@@ -77,8 +77,7 @@ export default function App() {
       <div className="relative group">
         <ReactWhatsapp
           number="+6285183182797"
-          message="Hi dari amaravillage.com
-Saya tertarik perumahan nya. Mohon info lengkapnya"
+          message="Hi, saya dapat info dari amaravillage.com, saya tertarik dengan perumahan nya. Mohon info lengkapnya."
         >
           <IoLogoWhatsapp className="text-green-600 text-6xl fixed top-3 right-3 outline cursor-pointer" />
           <span className="fixed top-8 right-20 bg-gray-700 text-white text-xs rounded py-1 px-2 opacity-0 group-hover:opacity-100 transition-opacity duration-300">

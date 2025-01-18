@@ -7,8 +7,7 @@ export default function Card({ image, tipe }) {
     <div className="md:w-[36rem] rounded-xl shadow-xl my-5 mx-5 bg-white">
       <ReactWhatsapp
         number="+6285183182797"
-        message="Hi dari amaravillage.com
-Saya tertarik perumahan nya. Mohon info lengkapnya"
+        message="Hi, saya dapat info dari amaravillage.com, saya tertarik dengan perumahan nya. Mohon info lengkapnya."
       >
         <div className="bg-white hover:bg-blue-200 transition rounded-xl">
           <img src={image} alt="gambar tipe rumah" className="rounded-xl" />
