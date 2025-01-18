@@ -86,7 +86,7 @@ export default function App() {
       <Footer />
       <div className="relative group">
         <ReactWhatsapp
-          number="+6288901780480"
+          number="+6281310112429"
           message="Hi dari amaravillage.com
 Saya tertarik perumahan nya. Mohon info lengkapnya"
         >
