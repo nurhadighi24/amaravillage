@@ -32,7 +32,7 @@ export default function App() {
             {"\n\n"}
             <strong>Akses Terbaik</strong>
             {"\n"}
-            🚇 5 Menit ke Stasiun{"\n"}
+            🚇 5 Menit ke Stasiun Parung Panjang{"\n"}
             🛣 15 Menit ke TOL Legok BSD{"\n"}
             🛒 25 Menit ke AEON Mall BSD
           </p>
@@ -52,12 +52,6 @@ export default function App() {
             🏡 Tipe 39/72{"\n"}
             🏡 Tipe 46/72
             {"\n\n"}
-            Selain itu, Amara Village memiliki lokasi yang strategis🙌🏻
-            {"\n"}
-            🚇 5 menit ke stasiun Parung Panjang{"\n"}
-            🏬 20 menit menuju AEON Mall{"\n"}
-            🚘 30 menit menuju Pusat Kota BSD
-            {"\n\n"}
             Tunggu apa lagi? Segera miliki hunian di ✨CLUSTER ALAMANDA✨{"\n"}
             Amara Village dan nikmati <strong>AMARA EAST PARK</strong> lebih
             dekat bersama keluarga!
@@ -66,10 +60,6 @@ export default function App() {
             {"\n"}
             Jl. Raya Dago, Kabasiran, Kec. Parung Panjang, Bogor, Jawa Barat
             16360
-            {"\n\n"}
-            #clusteraster #hunianmodern #rumahparungpanjang #parungpanjang{"\n"}
-            #rumahbaru #perumahanbaru #rumahdekatstasiun #rumahdekatbsd{"\n"}
-            #rumahdekatserpong #stasiunparungpanjang #AmaraVillage #BSALand
           </p>
         </div>
       </div>
@@ -86,7 +76,7 @@ export default function App() {
       <Footer />
       <div className="relative group">
         <ReactWhatsapp
-          number="+6281310112429"
+          number="+6285183182797"
           message="Hi dari amaravillage.com
 Saya tertarik perumahan nya. Mohon info lengkapnya"
         >
